@@ -1,0 +1,7 @@
+# Project Overview:
+
+In this project, I conducted an in-depth analysis of a dataset from Kaggle on pizza sales, utilizing SQL for data exploration and answering a series of questions spanning basic, intermediate, and advanced levels of complexity. The analysis included a variety of tasks such as determining the total number of orders, calculating total revenue, and identifying the highest-priced pizza. Additionally, I delved into more intricate analyses such as the distribution of orders by the hour of the day, the cumulative revenue generated over time, and the percentage contribution of each pizza type to total revenue. This comprehensive exploration provided valuable insights into pizza sales trends and customer preferences.
+
+# About the Project:
+
+The aim of this project was to leverage SQL for performing exploratory data analysis (EDA) on a pizza sales dataset. By joining necessary tables and employing SQL queries, I was able to extract meaningful insights and trends from the data. Basic queries helped in understanding fundamental metrics like total orders and revenue, while intermediate queries provided insights into order patterns and pizza category distributions. Advanced queries further deepened the analysis by focusing on revenue contributions and temporal sales patterns. This project not only demonstrated the power of SQL in handling and analyzing large datasets but also provided actionable insights for optimizing pizza sales strategies.
